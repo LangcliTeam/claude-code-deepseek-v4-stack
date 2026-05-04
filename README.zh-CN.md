@@ -7,15 +7,13 @@
 
 <div align="left">
 
-Claude Code is the best autonomous coding agent — but it costs $200/month with usage caps. 
-DeepSeek V4 Pro scores 96.4% on LiveCodeBench and costs $0.87/M output tokens.
+Claude Code 是最优秀的自主编程代理——但它的费用为每月200美元，且有使用上限。而 DeepSeek V4 Pro 在 LiveCodeBench 上得分高达96.4%，每百万输出令牌仅需0.87美元。
 
-[Langcli](https://github.com/LangcliTeam/langcli) is an open sourced interactive AI coding assistant in the terminal, built upon the leaked code of Claude Code. 
-Therefore, the way to use Langcli is exactly the same as that of standard Claude Code. 
+[Langcli](https://github.com/LangcliTeam/langcli) 是一款开源的终端交互式AI编程助手，基于泄露的Claude Code代码构建。因此，Langcli的使用方式与标准Claude Code完全一致。
 
-In this tutorial, we use Langcli to demonstrate how to program with DeepSeek V4.
+本教程将使用Langcli来演示如何搭配DeepSeek V4进行编程。
 
-## Installation
+## 安装
 
 ##### 快速安装 (推荐)
 
