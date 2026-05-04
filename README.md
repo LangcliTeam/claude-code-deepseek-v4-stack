@@ -58,8 +58,9 @@ hi
 
 ## How to achieve 17x cheaper?
 Deepseek v4 is a combination. v4 flash is used for quickly building prototypes, while v4 pro is for solving complex problems. 
-If the issue remains unresolved, opus 4.6 can be deployed.
+If the issue remains unresolved, you can switch to opus 4.6 for help.
 
-During your programming process, you can dynamically and seamlessly switch between models such as DeepSeek V4 Flash, DeepSeek V4 Pro, and Claude Opus 4.6 in Langcli, without losing context. Leveraging the capabilities of V4 Flash and V4 Pro can help you save a significant amount on token costs.
+During your programming process, you can dynamically and seamlessly switch between models such as DeepSeek V4 Flash, DeepSeek V4 Pro, and Claude Opus 4.6 in Langcli, without losing context. Leveraging the capabilities of V4 Flash and V4 Pro can help you save a significant amount on token costs.  
+> **Note**：In the LangRouter ecosystem, the output token price for Claude Opus 4.6 is $3.67 per million, which is much cheaper than prices on platforms like Openrouter.
 
 </div>

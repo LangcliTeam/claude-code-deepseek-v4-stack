@@ -54,8 +54,9 @@ hi
 <img title="Langcli" height=400 alt="Alt text" src="./assets/hi.png">
 
 ## 如何做到便宜17倍的呢？
-DeepSeek V4 是一个组合。V4 Flash 用于快速构建原型，而 V4 Pro 用于解决复杂问题。如果问题仍未解决，可以部署 Opus 4.6。
+DeepSeek V4 是一个组合。V4 Flash 用于快速构建原型，而 V4 Pro 用于解决复杂问题。如果问题仍未解决，可以切换到Opus 4.6来解决。
 在你编程的过程中，你可以在Langcli中，动态无缝地切换deepseek v4 flash、deepseek v4 pro 和 Claude opus 4.6等模型，
-而切换模型不会导致你的上下文丢失。发挥好v4 flash 和 v4 pro的能力，可以为你节省下大量的Tokens开支。
+而切换模型不会导致你的上下文丢失。发挥好v4 flash 和 v4 pro的能力，可以为你节省下大量的Tokens开支。  
+> **注意**：LangRouter系统中Claude opus 4.6 输出tokens价格为 $3.67/百万，比Openrouter等渠道的价格要便宜得多。
 
 </div>
